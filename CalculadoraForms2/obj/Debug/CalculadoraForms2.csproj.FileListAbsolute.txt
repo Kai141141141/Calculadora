@@ -1,0 +1,11 @@
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\bin\Debug\CalculadoraForms2.exe.config
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\bin\Debug\CalculadoraForms2.exe
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\bin\Debug\CalculadoraForms2.pdb
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.csproj.AssemblyReference.cache
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.Form1.resources
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.Properties.Resources.resources
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.csproj.GenerateResource.cache
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.exe
+C:\Users\guilherme.scamilo1\source\repos\CalculadoraForms2\CalculadoraForms2\obj\Debug\CalculadoraForms2.pdb
